@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ucgmul.slotoduarx500.online/sitemap.xml
